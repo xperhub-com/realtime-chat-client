@@ -1,6 +1,7 @@
 {
   "name": "realtime-chat-client",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Chat client-side using angular, node.js, express, mongodb, socket.io.",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -44,5 +45,15 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.11.0",
     "typescript": "~3.2.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xperhub-com/realtime-chat-client.git"
+},
+"author": "Gurpreet Deol",
+"license": "ISC",
+"bugs": {
+    "url": "https://github.com/xperhub-com/realtime-chat-client/issues"
+},
+"homepage": "https://github.com/xperhub-com/realtime-chat-client#readme"
 }
